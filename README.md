@@ -10,7 +10,7 @@ This repository documents my journey learning **Power BI** — from the basics t
 
 A retail sales dashboard analyzing sales by region, segment, sub-category, and time.
 
-![Project 1 Dashboard](./Project-1/dashboard-screenshot.png)
+<img width="1167" height="755" alt="Screenshot 2026-08-14 153907" src="https://github.com/user-attachments/assets/840ab78a-9dc5-48c3-adf7-8b5d89bd2a80" />
 
 📄 Full notes: [`Project-1/notes.md`](./Project-1/notes.md)
 
